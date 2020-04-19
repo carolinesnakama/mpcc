@@ -6,8 +6,6 @@
 # April 2020
 #
 
-# using LaTeXStrings, Plotly;
-# using LaTeXStrings, Plots;
 using LaTeXStrings, PyPlot;
 
 include("mpcc.jl")
